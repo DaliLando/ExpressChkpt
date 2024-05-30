@@ -1,0 +1,11 @@
+.space{
+    display: flex;
+    justify-content: space-around;
+}
+h1 {
+    color:red;
+    text-align: center;
+}
+p {
+    text-align: center;
+}
